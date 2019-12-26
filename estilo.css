@@ -1,14 +1,39 @@
+body{
+    font-family: sans-serif;
+    background-color: #EEEEEE;
+    text-align: justify;
+}
+
 h1{
     color: #333333;
     text-transform: uppercase;
 }
 h2{
-
+    background-color: #888888;
+    color:red;
+    text-transform: capitalize;
 }
-h3{
 
+h3{
+    color: purple;
+    background-color: #AAAAAA;
 }
 p{
     background-color: #CCCCCC;
-    
+
+}
+em{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: normal;
+}
+strong{
+    font-weight: normal;
+    color: green;
+}
+address{
+    text-align: right;
+    background-color: white;
+    font-style: normal;
 }
